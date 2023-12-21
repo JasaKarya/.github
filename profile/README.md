@@ -13,8 +13,8 @@
 
 Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team members:
 
-| Bangkit ID | Name   | Learning Path | University |LinkedIn |
-| ---        | ---      | ---           | ---         | ---       |
+| Bangkit ID | Name     | Learning Path   | University  |LinkedIn |
+| ---        | ---      | ---             | ---         | ---       |
 | M153BSY0546 | Muhammad Rizky Fatahillah | Machine Learning | Sekolah Tinggi Teknologi Indonesia Tanjung Pinang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-fatahillah-50903b267/) |
 | M153BSY0654 | Sukma Adhi Wijaya | Machine Learning | Sekolah Tinggi Teknologi Indonesia Tanjung Pinang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukma-adhi-wijaya-aa1659180/) |
 | M153BSY0753 | Muhammad Rifan Sidik | Machine Learning | Sekolah Tinggi Teknologi Indonesia Tanjung Pinang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifan-sidik-4109081b5/) |
