@@ -1,5 +1,11 @@
-## Hi there 👋
+Capstone Bangkit Academy JasaKarya
+==
+Overview
+--
+"JasaKarya" is an innovative machine learning-assisted mobile platform designed to address this problem. The platform aims to empower local artists by providing a digital space to showcase and sell their works and services. At the core of "JasaKarya" is an artificial intelligence-based recommendation system, which seeks to effectively match artists with their target audience, thereby increasing their visibility and market reach.
 
+Team Members
+--
 <!--
 
 **Here are some ideas to get you started:**
@@ -22,3 +28,10 @@ Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team
 | C006BSX4129 | Ira Setyaningrum | Cloud Computing | Universitas Brawijaya | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ira-setyaningrum/) |
 | A262BSY2752 | Bima Prasetio | Mobile Development | Universitas Muhammadiyah Prof. Dr. Hamka | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimamib16/) |
 | A307BSY2721 | Yusuf Kurniawan | Mobile Development | Universitas Raharja | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kurniawan-3b6948288/) |
+
+Documentation
+--
+These are our documentation link:
+- [Mobile Development Documentation](https://github.com/JasaKarya/Mobile-Development)
+- [Cloud Computing Documentation](https://github.com/JasaKarya/Cloud-Computing)
+- [Machine Learning Documentation](https://github.com/JasaKarya/Machine-Learning)
